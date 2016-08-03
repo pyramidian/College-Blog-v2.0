@@ -1,8 +1,7 @@
 # Site settings
 title: College Blog
 email: exm8050@g.rit.edu
-description: > # this means to ignore newlines until "baseurl:"
-  
+description: > # this means to ignore newlines until "baseurl:" 
 baseurl: /College-Blog-v2.0 # the subpath of your site, e.g. /blog/
 nodeurl: /about
 url: "https://pyramidian.github.io/College-Blog-v2.0/" # the base hostname & protocol for your site
