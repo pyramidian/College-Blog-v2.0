@@ -1,5 +1,5 @@
 # Site settings
-title: Placeholder.title
+title: College Blog
 email: exm8050@g.rit.edu
 description: > # this means to ignore newlines until "baseurl:"
   A home for all projects, collaborations, and musings I have or take part in during my time at RIT.
@@ -26,3 +26,5 @@ more_vert:
 
 # Build settings
 markdown: kramdown
+highlighter: rouge
+
