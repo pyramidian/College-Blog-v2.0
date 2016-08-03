@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Blog Nubula"
+title:  "Blog Nebula"
 date:   2016-08-2 
 categories: General
 author: Ethan Mui
