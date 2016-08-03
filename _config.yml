@@ -1,6 +1,6 @@
 # Site settings
 title: Placeholder.title
-email: your-email@domain.com
+email: exm8050@g.rit.edu
 description: > # this means to ignore newlines until "baseurl:"
   A home for all projects, collaborations, and musings I have to take part in during my time at RIT.
 baseurl: /College-Blog-v2.0/ # the subpath of your site, e.g. /blog/
@@ -15,14 +15,14 @@ pagination_type: default  # values [ ops, default ]
 
 more_vert:
   option1:
-    name: Cool Option 1
-    link: www.myawesomelink.com
+    name: Miku.PWM
+    link: https://brushlessmiku.github.io/UnhappyTurtle//
   option2:
-    name: Cool Option 2
-    link: www.myawesomelink.com
+    name: Ishraq's Blog
+    link: www.leekspin.com
   option3:
-    name: Cool Option 3
-    link: www.myawesomelink.com
+    name: Equals Zero
+    link: http://www.etotheipiplusone.net/
 
 # Build settings
 markdown: kramdown
