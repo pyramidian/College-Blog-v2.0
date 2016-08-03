@@ -2,7 +2,7 @@
 layout: post
 title:  "Blog Nebula-Original"
 date:   2016-08-2 
-categories: General
+categories: General2
 author: Ethan Mui
 highlight: true
 image: https://upload.wikimedia.org/wikipedia/commons/d/d6/Hs-2009-25-e-full_jpg.jpg
