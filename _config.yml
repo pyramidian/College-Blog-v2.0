@@ -3,8 +3,8 @@ title: College Blog
 email: exm8050@g.rit.edu
 description: > # this means to ignore newlines until "baseurl:"
   A home for all projects, collaborations, and musings I have or take part in during my time at RIT.
-baseurl: /College-Blog-v2.0/ # the subpath of your site, e.g. /blog/
-nodeurl: /about/
+baseurl: /College-Blog-v2.0 # the subpath of your site, e.g. /blog/
+nodeurl: /about
 url: "https://pyramidian.github.io/College-Blog-v2.0/" # the base hostname & protocol for your site
 github_username:  Pyramidian
 

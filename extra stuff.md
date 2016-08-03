@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Extra Stuff
-permalink: /extrastuff/
+permalink: /extrastuff
 ---
 ###### Under Development.
 
