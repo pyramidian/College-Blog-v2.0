@@ -6,13 +6,13 @@
       <!-- Add spacer, to align navigation to the right -->
       <div class="mdl-layout-spacer"></div>
       <!-- Navigation. We hide it in small screens. -->
-      <nav class="mdl-navigation mdl-layout--large-screen-only">
+      <!-- <nav class="mdl-navigation mdl-layout--large-screen-only">
       {% for page in site.pages %}
         {% if page.title %}
         <a class="mdl-navigation__link" href="{{ page.url | prepend: site.baseurl }}">{{ page.title }}</a>
         {% endif %}
       {% endfor %}
-      </nav>
+      </nav>  -->
 
       <div class="android-search-box mdl-textfield mdl-js-textfield mdl-textfield--expandable mdl-textfield--floating-label mdl-textfield--align-right mdl-textfield--full-width">
         <label class="mdl-button mdl-js-button mdl-button--icon" for="search-field">
@@ -39,7 +39,7 @@
     <span class="mdl-layout-title">Menu</span>
     <nav class="mdl-navigation">
 		<a class="mdl-navigation__link" href="{{ site.baseurl }}">Home</a>
-		<a class="mdl-navigation__link" href="{{ about | prepend: site.baseurl }}">About</a>
+		<a class="mdl-navigation__link" href="{{ site.baseurl }}about">About</a>
 		<a class="mdl-navigation__link" href="{{ page.url | prepend: site.baseurl }}">Archives</a>
 		<a class="mdl-navigation__link" href="{{ page.url | prepend: site.baseurl }}">Extra Stuff</a>
      
