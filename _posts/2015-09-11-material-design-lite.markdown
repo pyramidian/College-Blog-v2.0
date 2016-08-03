@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Material Design Lite"
+title:  "Blog Nubula"
 date:   2016-08-2 
 categories: Material
 author: Ethan Mui
