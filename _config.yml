@@ -15,7 +15,7 @@ pagination_type: default  # values [ ops, default ]
 more_vert:
   option1:
     name: Miku.PWM
-    link: https://brushlessmiku.github.io/UnhappyTurtle//
+    link: http://brushlessmiku.xyz/
   option2:
     name: Ishraq's Blog
     link: www.leekspin.com
