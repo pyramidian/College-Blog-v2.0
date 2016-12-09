@@ -1,7 +1,7 @@
 ---
 layout: page
-title: About
+title: Course Reflection
 permalink: /about
 ---
-###### Under Development.
+###### Course
 
