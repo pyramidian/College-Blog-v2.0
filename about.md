@@ -6,6 +6,6 @@ published: true
 ---
 **Hi, I'm Ethan.**
 
-My name is Ethan Mui and I am the author or a contributor of all the works featured on this site.
+My name is Ethan Mui and I am the author or a contributor of all the works featured on this site. I am currently an undergraduate student at the Rochester Institute of Technology studying Mechanical Engineering. 
 
 
