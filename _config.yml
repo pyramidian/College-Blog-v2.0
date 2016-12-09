@@ -1,5 +1,5 @@
 # Site settings
-title: College Blog
+title: Writing Seminar Portoflio
 email: exm8050@g.rit.edu
 description: > # this means to ignore newlines until "baseurl:" 
 baseurl: /College-Blog-v2.0 # the subpath of your site, e.g. /blog/
@@ -14,14 +14,14 @@ pagination_type: default  # values [ ops, default ]
 
 more_vert:
   option1:
-    name: Miku.PWM
-    link: http://brushlessmiku.xyz/
+    name: Puppies
+    link: https://www.google.com/search?q=puppies&num=20&espv=2&rlz=1C1CHBF_enUS707US707&source=lnms&tbm=isch&sa=X&ved=0ahUKEwi3m4qmwefQAhWqhVQKHe6UDV8Q_AUICCgB&biw=1418&bih=669
   option2:
-    name: Ishraq's Blog
-    link: www.leekspin.com
+    name: More Puppies
+    link: http://imgur.com/r/puppies
   option3:
-    name: Equals Zero
-    link: http://www.etotheipiplusone.net/
+    name: Even More Puppies
+    link: https://www.tumblr.com/tagged/puppies
 
 # Build settings
 markdown: kramdown
