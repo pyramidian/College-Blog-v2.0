@@ -4,7 +4,8 @@ title:  "Rhetorical Analysis"
 categories: General
 author: Ethan Mui
 highlight: false
-image: http://www.bp.com/content/dam/bp/images/general/graphics/1-1/social-media.jpg
+image: https://i.ytimg.com/vi/UEYp1RTvllM/maxresdefault.jpg
+
 ---
 
 
