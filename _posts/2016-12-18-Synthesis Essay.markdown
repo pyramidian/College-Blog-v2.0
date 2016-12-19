@@ -3,7 +3,7 @@ layout: post
 title:  "Synthesis Essay"
 categories: General
 author: Ethan Mui
-highlight: true
+highlight: false
 ---
 
 Social Media is Not the Evil it is Made Out to Be
