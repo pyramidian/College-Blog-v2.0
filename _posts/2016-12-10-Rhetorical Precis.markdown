@@ -4,7 +4,7 @@ title:  "Rhetorical Precis"
 categories: General
 author: Ethan Mui
 highlight: false
-image: https://cdn.theatlantic.com/assets/static/b/theatlantic/img/default-thumbnail.png
+image: http://cdn.foliomag.com/wp-content/uploads/2016/05/tumblr_nt2iamwwPb1s07vpzo1_500.jpg
 
 ---
 
