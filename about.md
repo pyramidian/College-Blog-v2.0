@@ -6,7 +6,7 @@ published: true
 ---
 **Hi, I'm Ethan.**
 
-![alt text](https://github.com/pyramidian/Writing-Seminar-Portfolio/blob/gh-pages/Me.jpg "Me")
+![alt text](https://github.com/pyramidian/Writing-Seminar-Portfolio/blob/gh-pages/Me.jpg?raw=true "Me")
 
 
 
