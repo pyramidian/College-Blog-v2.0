@@ -30,6 +30,7 @@ Although both Buck and Williams do agree on the same general idea of audience ad
 
 
 Works Cited
+
 Buck, Elisabeth H. “Facebook, Instagram, and Twitter: Oh My!: Assessing the Efficacy of the 
 Rhetorical Composing Situation with FYC Students as Advanced Social Media Practitioners.” Kairos: A Journal of Rhetoric, Technology, and Pedagogy, vol. 19, no. 3, 2015, 
 http://technorhetoric.net/19.3/praxis/buck/. Accessed 23 Sept. 2016.
