@@ -4,7 +4,7 @@ title:  "Rhetorical Analysis"
 categories: General
 author: Ethan Mui
 highlight: false
-image: https://i.ytimg.com/vi/UEYp1RTvllM/maxresdefault.jpg
+image: http://siliconangle.com/files/2015/11/overwatch-heroes-background-blizzard-1080x623.png
 
 ---
 
