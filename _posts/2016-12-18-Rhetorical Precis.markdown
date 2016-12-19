@@ -3,7 +3,7 @@ layout: post
 title:  "Rhetorical Precis"
 categories: General
 author: Ethan Mui
-highlight: true
+highlight: false
 
 ---
 
