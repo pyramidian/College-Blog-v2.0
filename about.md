@@ -6,7 +6,8 @@ published: true
 ---
 **Hi, I'm Ethan.**
 
-![alt text](http://imgur.com/a/tT5nV "Me")
+![alt text](https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Logo Title Text 1")
+
 
 
 My name is Ethan Mui and I am the author or a contributor of all the works featured on this site. I am currently an undergraduate student at the Rochester Institute of Technology studying mechanical engineering.
