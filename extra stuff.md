@@ -1,7 +1,8 @@
 ---
 layout: page
-title: Extra Stuff
+title: Contact
 permalink: /extrastuff
 ---
-###### Under Development.
+Phone: (917)-968-0365
+Email: exm8050@rit.edu
 
