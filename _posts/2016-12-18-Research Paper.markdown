@@ -4,6 +4,7 @@ title:  "Research Paper"
 categories: General
 author: Ethan Mui
 highlight: false
+image: https://62e528761d0685343e1c-f3d1b99a743ffa4142d9d7f1978d9686.ssl.cf2.rackcdn.com/files/38926/width926/5cwx89t4-1389586191.jpg
 ---
 The word “meme” is quite a popular term on the internet in this day and age. It is unlikely a Facebook feed or a Reddit front page would ever be missing a meme or two. Although memes are a staple in modern day social media, the first memes actually gained popularity before the rise of computers. During World War I, allied servicemen would draw or doodle a bald man with an elongated nose next to the text “Kilroy was here” wherever they set foot. Soldiers following them would then take solace in the fact that other troops had been there before them. The term “meme” wasn’t even known before 1976 when Richard Dawkins coined the term as an explanation for how cultural information spreads among humans. Following the path of this definition, the question of why memes spread and become so popular arises. How does a simple image of a frog on a unicycle or someone’s white shoes spread to every corner of the internet within days of their origin? The answer to this question lies in the properties of the image itself. Traits such as repeatability and ease of recreation, serendipitous creation intent, and emotional response are the key components of what causes a meme to go viral. Once these traits are recognized as the main factors behind meme success, understanding the ever-shifting internet culture of the current day becomes much simpler.
 
